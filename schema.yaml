@@ -1,0 +1,15 @@
+fields:
+  - name: FirstName
+    type: first_name
+  - name: LastName
+    type: last_name
+  - name: Address1
+    type: address
+  - name: Address2
+    type: address_secondary
+  - name: City
+    type: city
+  - name: State
+    type: state_abbr
+  - name: Zip
+    type: postal_code
