@@ -20,7 +20,7 @@ tables:
         dataType: TEXT
         jdbcType: VARCHAR
       - name: City
-        provider: City
+        provider: CustomCityName
         dataType: TEXT
         jdbcType: VARCHAR
       - name: State
@@ -33,4 +33,3 @@ tables:
         nullable: true
         dataType: TEXT
         jdbcType: VARCHAR
-
